@@ -14,7 +14,7 @@ A user-friendly Python application built using Tkinter that helps you calculate 
 
 ---
 
-## Tech Stack
+## Technologies used
 
 - **Language**: Python
 - **Library**: Tkinter
@@ -39,6 +39,7 @@ A user-friendly Python application built using Tkinter that helps you calculate 
 ## Contributors
 
 Akshat Kardak - GitHub Profile **"https://github.com/AkshatKardak"**
+
 
 
 
