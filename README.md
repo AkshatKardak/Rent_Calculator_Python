@@ -28,7 +28,13 @@ A user-friendly Python application built using Tkinter that helps you calculate 
 
 ## How to Run
 
-1. Open the terminal in the project directory and run:
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/yourusername/Rent_Calculator_Python.git
+   cd rent_calculator
+   ```
+   
+2. Open the terminal in the project directory and run:
 
    ```bash
    python rent_calculator.py
@@ -39,6 +45,7 @@ A user-friendly Python application built using Tkinter that helps you calculate 
 ## Contributors
 
 Akshat Kardak - GitHub Profile **"https://github.com/AkshatKardak"**
+
 
 
 
